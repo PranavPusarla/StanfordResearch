@@ -1,5 +1,5 @@
-# Project
+# Determining the Survival Rate of Patients with DIPG (Diffuse Intrinsic Pontine Glioma)
 
-My first repository on Github
+
 
 
